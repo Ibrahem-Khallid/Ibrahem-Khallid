@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=190&section=header&text=Ibrahim%20Khalid&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Business%20%26%20Technology%20Enthusiast&descAlignY=60&descSize=16" width="100%" alt="Profile header" />
-  <a href="www.linkedin.com/in/ibrahim-khalid-a055793b9">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://github.com/user-attachments/assets/1781593f-1a5a-48d2-87b4-36b048bc8aa0" width="50%" alt="Profile header" />
+  
   <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Understanding+the+problem.;Analyzing+the+need.;Building+practical+solutions.;Learning+continuously." alt="Typing introduction" />
 </div>
@@ -98,17 +96,23 @@ AI & Emerging Technologies
           ↓
 Continuous Learning
 ```
-## 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=06B6D4&text_color=475569" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=475569" height="165" alt="Most used languages" />
-</div>
-## 🤝 Let’s Connect
-I’m always interested in learning, building, and connecting with people who are passionate about **business, technology, data, and innovation**.
-<div align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
-</div>
+
 <br>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=100&section=footer" width="100%" alt="Profile footer" />
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
