@@ -102,6 +102,10 @@ Continuous Learning
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=100&section=footer" width="100%" alt="Profile footer" />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abraheemkq66-lgtm_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
 
 
 
