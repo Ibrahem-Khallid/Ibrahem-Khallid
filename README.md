@@ -1,108 +1,137 @@
-# Hi, I'm Ibrahim Khalid 👋
+<div align="center">
 
-### Information Systems Student | Aspiring Business Analyst | Technology Enthusiast
+# Ibrahim Khalid
 
-I'm an Information Systems student interested in connecting **technology and business**. I enjoy understanding and analyzing business requirements, exploring how technology can solve real-world problems, and continuously developing my technical skills.
+### Information Systems Student · Business & Technology Enthusiast
 
-I'm also passionate about **programming, artificial intelligence, and building practical technology solutions** while exploring different areas of the tech industry.
+*Bridging business needs with technology through analysis, problem-solving, and continuous learning.*
 
-📍 Riyadh, Saudi Arabia  
-🎓 Imam Mohammad Ibn Saud Islamic University  
-📅 Expected Graduation: 2027
+<br>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
 
-## 🚀 Areas of Interest
-
-- 💼 Business Analysis
-- 📊 Data Analysis
-- 📱 Application Development
-- 📋 Project Management
-- 🤖 Artificial Intelligence
-- 🌐 Web Development
-- 🔄 Digital Transformation
+</div>
 
 ---
 
-## 🛠️ Skills
+## 👋 About Me
 
-### Currently Using
+I'm an **Information Systems student at Imam Mohammad Ibn Saud Islamic University**, expected to graduate in **2027**.
+
+What interests me most is the space where **business and technology meet**. I enjoy understanding business needs, analyzing requirements, and thinking about how technology can turn problems into practical solutions.
+
+Alongside my interest in business and systems analysis, I'm developing my technical background through programming, data analysis, web development, application development, and artificial intelligence.
+
+> **My focus:** Understand the problem → Analyze the need → Build the solution → Keep learning.
+
+---
+
+## 🧭 What I'm Exploring
+
+Rather than limiting myself to one area, I'm currently exploring different parts of the technology field and discovering where I can create the most value.
+
+| Area | What interests me |
+| --- | --- |
+| 💼 **Business Analysis** | Requirements, processes, problem-solving & business needs |
+| 📊 **Data Analysis** | Data visualization, insights & decision support |
+| 📱 **Application Development** | Building practical applications and learning development fundamentals |
+| 📋 **Project Management** | Planning, organizing & delivering technology projects |
+| 🤖 **Artificial Intelligence** | AI applications, AI agents & emerging technologies |
+| 🌐 **Web Development** | Building and understanding modern web applications |
+
+---
+
+## 🛠️ Technical Skills
+
+### Comfortable With
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 </p>
 
 ### Currently Learning
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Agents-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 ---
 
-## 📚 My Learning Journey
+## 🌱 Currently Growing
 
-I'm currently building my GitHub journey and developing my foundation across different areas of technology.
+I'm still early in my journey, so I'm more interested in **building a strong foundation** than trying to list every technology I've touched.
 
-My focus is on learning by **building, experimenting, and applying what I learn** rather than trying to master everything at once.
+Currently, I'm working on improving my ability to:
 
-Some of the areas I'm currently exploring:
-
-- Web Development
-- Application Development
-- JavaScript and modern web technologies
-- Dart & Flutter
-- AI Agents and practical AI applications
-- Data Analysis and Visualization
-- Business and Systems Analysis
+- Translate ideas and business requirements into technical solutions
+- Build small applications and web projects
+- Work with data and create meaningful visualizations
+- Understand software and system development concepts
+- Explore practical applications of AI and AI agents
+- Turn what I learn into projects that I can share here
 
 ---
 
-## 💻 Projects
+## 📂 Projects
 
-I'm currently building my GitHub journey and will be adding projects as I develop my skills.
+### Building in Public
 
-### 🚧 Coming Soon
+My GitHub is a space where I document my progress, experiments, and projects as I continue learning.
 
-More projects will be added here as I learn, experiment, and build.
+> New projects will appear here as I build them.
 
 <!--
-Add your projects here using this format:
+### 📌 Project Name
+Short description of the problem, solution, and what you learned.
 
-### Project Name
-Short description of what the project does and what you learned from it.
+**Built with:** Java · HTML · CSS · JavaScript
 
-**Tech:** Java, HTML, CSS, JavaScript
-
-[View Project](your-repository-link)
+[View Repository →](YOUR_REPOSITORY_URL)
 -->
 
 ---
 
-## 🎯 My Goal
+## 🎓 Education
 
-My goal is to develop a strong combination of **business understanding and technical skills**, allowing me to analyze problems, understand requirements, and contribute to technology solutions that create real value.
+**Imam Mohammad Ibn Saud Islamic University**
 
-I'm at the beginning of my journey, and I'm looking forward to continuously learning, building, and improving.
+**Information Systems**  
+Expected Graduation: **2027**
 
----
-
-## 🤝 Let's Connect
-
-<p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+My studies have helped me develop an understanding of both **business processes and information technology**, which is the foundation I'm building on as I explore different technical and analytical fields.
 
 ---
 
-<p align="center">
-  <i>Learning • Building • Improving</i>
-</p>
+## 🎯 Where I'm Heading
+
+I'm working toward becoming a professional who can understand both sides of a problem:
+
+**The business side** — understanding needs, processes, requirements, and objectives.
+
+**The technology side** — understanding how systems, data, software, and emerging technologies can address those needs.
+
+My goal is to keep developing this combination through **projects, experimentation, university work, and continuous learning**.
+
+---
+
+## 📈 The Journey
+
+```text
+Business Understanding
+        ↓
+Requirements & Analysis
+        ↓
+Technology & Development
+        ↓
+Data & Insights
+        ↓
+AI & Emerging Technologies
+        ↓
+Continuous Learning
