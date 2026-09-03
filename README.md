@@ -1,137 +1,118 @@
 <div align="center">
-
-# Ibrahim Khalid
-
-### Information Systems Student · Business & Technology Enthusiast
-
-*Bridging business needs with technology through analysis, problem-solving, and continuous learning.*
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=190&section=header&text=Ibrahim%20Khalid&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Business%20%26%20Technology%20Enthusiast&descAlignY=60&descSize=16" width="100%" alt="Profile header" />
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="YOUR_GITHUB_URL">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Understanding+the+problem.;Analyzing+the+need.;Building+practical+solutions.;Learning+continuously." alt="Typing introduction" />
 </div>
-
----
-
 ## 👋 About Me
-
 I'm an **Information Systems student at Imam Mohammad Ibn Saud Islamic University**, expected to graduate in **2027**.
-
-What interests me most is the space where **business and technology meet**. I enjoy understanding business needs, analyzing requirements, and thinking about how technology can turn problems into practical solutions.
-
-Alongside my interest in business and systems analysis, I'm developing my technical background through programming, data analysis, web development, application development, and artificial intelligence.
-
-> **My focus:** Understand the problem → Analyze the need → Build the solution → Keep learning.
-
----
-
-## 🧭 What I'm Exploring
-
-Rather than limiting myself to one area, I'm currently exploring different parts of the technology field and discovering where I can create the most value.
-
-| Area | What interests me |
+I’m interested in the space where **business needs meet technology**. I enjoy understanding requirements, analyzing processes, exploring data, and learning how digital solutions can solve real-world problems.
+My journey currently combines:
+- Business analysis and requirements understanding
+- Data analysis and visualization
+- Application and web development
+- Project management fundamentals
+- Artificial intelligence and AI agents
+> **My approach:** Understand the problem → Analyze the need → Build the solution → Keep learning.
+## 🧭 Areas of Interest
+<table>
+  <tr>
+    <td width="50%">
+      <h3>💼 Business & Systems</h3>
+      <p>Business analysis, requirements, processes, systems thinking, and problem-solving.</p>
+    </td>
+    <td width="50%">
+      <h3>📊 Data & Insights</h3>
+      <p>Data visualization, meaningful insights, and supporting better decisions with data.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🌐 Development</h3>
+      <p>Web technologies and practical application development with a focus on strong fundamentals.</p>
+    </td>
+    <td>
+      <h3>🤖 Emerging Technology</h3>
+      <p>Artificial intelligence, AI applications, AI agents, and the future of technology.</p>
+    </td>
+  </tr>
+</table>
+## 🛠️ Skills & Technologies
+### Programming & Development
+<p>
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,dart,flutter" alt="Java, HTML, CSS, JavaScript, Dart, and Flutter" />
+</p>
+### Data, Business & Tools
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Business%20Analysis-2563EB?style=for-the-badge&logo=probot&logoColor=white" alt="Business Analysis" />
+  <img src="https://img.shields.io/badge/Project%20Management-0F766E?style=for-the-badge&logo=target&logoColor=white" alt="Project Management" />
+  <img src="https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
+</p>
+| Focus area | Technologies / interests |
 | --- | --- |
-| 💼 **Business Analysis** | Requirements, processes, problem-solving & business needs |
-| 📊 **Data Analysis** | Data visualization, insights & decision support |
-| 📱 **Application Development** | Building practical applications and learning development fundamentals |
-| 📋 **Project Management** | Planning, organizing & delivering technology projects |
-| 🤖 **Artificial Intelligence** | AI applications, AI agents & emerging technologies |
-| 🌐 **Web Development** | Building and understanding modern web applications |
-
----
-
-## 🛠️ Technical Skills
-
-### Comfortable With
-
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-</p>
-
-### Currently Learning
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Agents-412991?style=flat-square&logo=openai&logoColor=white" />
-</p>
-
----
-
-## 🌱 Currently Growing
-
-I'm still early in my journey, so I'm more interested in **building a strong foundation** than trying to list every technology I've touched.
-
-Currently, I'm working on improving my ability to:
-
-- Translate ideas and business requirements into technical solutions
-- Build small applications and web projects
-- Work with data and create meaningful visualizations
-- Understand software and system development concepts
-- Explore practical applications of AI and AI agents
-- Turn what I learn into projects that I can share here
-
----
-
-## 📂 Projects
-
-### Building in Public
-
-My GitHub is a space where I document my progress, experiments, and projects as I continue learning.
-
-> New projects will appear here as I build them.
-
+| Programming | Java |
+| Web development | HTML, CSS, JavaScript |
+| Application development | Dart, Flutter |
+| Data & visualization | Power BI |
+| Analysis | Requirements, business processes, problem-solving |
+| Emerging technology | Artificial intelligence and AI agents |
+## 🌱 Currently Learning
+- Translating business requirements into practical technical solutions
+- Building small applications and web projects
+- Creating meaningful data visualizations with Power BI
+- Strengthening software and systems development fundamentals
+- Exploring practical applications of artificial intelligence and AI agents
+- Documenting my learning journey through projects and experiments
+## 📂 Featured Projects
+> I’m currently building my project portfolio. New projects and experiments will be added here as they become ready to share.
 <!--
 ### 📌 Project Name
-Short description of the problem, solution, and what you learned.
-
+A short explanation of the problem, the solution, and what you learned.
 **Built with:** Java · HTML · CSS · JavaScript
-
-[View Repository →](YOUR_REPOSITORY_URL)
+[View repository →](YOUR_REPOSITORY_URL)
 -->
-
----
-
 ## 🎓 Education
-
-**Imam Mohammad Ibn Saud Islamic University**
-
-**Information Systems**  
-Expected Graduation: **2027**
-
-My studies have helped me develop an understanding of both **business processes and information technology**, which is the foundation I'm building on as I explore different technical and analytical fields.
-
----
-
-## 🎯 Where I'm Heading
-
-I'm working toward becoming a professional who can understand both sides of a problem:
-
-**The business side** — understanding needs, processes, requirements, and objectives.
-
-**The technology side** — understanding how systems, data, software, and emerging technologies can address those needs.
-
-My goal is to keep developing this combination through **projects, experimentation, university work, and continuous learning**.
-
----
-
-## 📈 The Journey
-
+**Imam Mohammad Ibn Saud Islamic University**  
+**Bachelor’s degree in Information Systems**  
+Expected graduation: **2027**
+My studies are helping me build a foundation across business processes, information technology, systems development, and analytical thinking.
+## 🎯 Career Direction
+I’m working toward becoming a professional who can understand both sides of a problem:
+- **The business side:** needs, processes, requirements, objectives, and stakeholders.
+- **The technology side:** systems, data, software, development, and emerging technologies.
+I’m especially interested in continuing to explore paths such as **Business Analysis, Systems Analysis, Data Analysis, and technology project management**.
+## 📈 My Learning Journey
 ```text
 Business Understanding
-        ↓
-Requirements & Analysis
-        ↓
-Technology & Development
-        ↓
-Data & Insights
-        ↓
+          ↓
+Requirements & Systems Analysis
+          ↓
+Technology & Application Development
+          ↓
+Data & Visualization
+          ↓
 AI & Emerging Technologies
-        ↓
+          ↓
 Continuous Learning
+```
+## 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=06B6D4&text_color=475569" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=475569" height="165" alt="Most used languages" />
+</div>
+## 🤝 Let’s Connect
+I’m always interested in learning, building, and connecting with people who are passionate about **business, technology, data, and innovation**.
+<div align="center">
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
+  <a href="YOUR_GITHUB_URL">GitHub</a>
+</div>
+<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=100&section=footer" width="100%" alt="Profile footer" />
+</div>
