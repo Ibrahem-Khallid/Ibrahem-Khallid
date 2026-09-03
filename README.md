@@ -3,9 +3,6 @@
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_GITHUB_URL">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Understanding+the+problem.;Analyzing+the+need.;Building+practical+solutions.;Learning+continuously." alt="Typing introduction" />
 </div>
@@ -110,7 +107,6 @@ Continuous Learning
 I’m always interested in learning, building, and connecting with people who are passionate about **business, technology, data, and innovation**.
 <div align="center">
   <a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
-  <a href="YOUR_GITHUB_URL">GitHub</a>
 </div>
 <br>
 <div align="center">
