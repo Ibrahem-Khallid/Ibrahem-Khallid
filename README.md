@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=190&section=header&text=Ibrahim%20Khalid&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Business%20%26%20Technology%20Enthusiast&descAlignY=60&descSize=16" width="100%" alt="Profile header" />
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/ibrahim-khalid-a055793b9">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <br><br>
