@@ -1,122 +1,147 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1781593f-1a5a-48d2-87b4-36b048bc8aa0" width="50%" alt="Profile header" />
-  
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Understanding+the+problem.;Analyzing+the+need.;Building+practical+solutions.;Learning+continuously." alt="Typing introduction" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:1a1a3e,100:2d1b4e&height=250&section=header&text=Ibrahim%20Khaled&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=32&desc=Information%20Systems%20|%20%7C%20Business%20x%20Technology&descAlignY=52&descSize=17&descColor=c9d1d9" width="100%"/>
+
+<br/>
+
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Bridging+the+Gap+Between+Business+%26+Tech;Building+AI+Agents+%F0%9F%A4%96;Turning+Raw+Data+Into+Business+Decisions+%F0%9F%93%8A;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Status-Actively%20Learning-00F7FF?style=for-the-badge&labelColor=0a0e27" />
+<img src="https://img.shields.io/badge/Field-Information%20Systems-8A2BE2?style=for-the-badge&labelColor=0a0e27" />
+<img src="https://img.shields.io/badge/Focus-AI%20%2B%20Business-FF6EC7?style=for-the-badge&labelColor=0a0e27" />
+
 </div>
-## 👋 About Me
-I'm an **Information Systems student at Imam Mohammad Ibn Saud Islamic University**, expected to graduate in **2027**.
-I’m interested in the space where **business needs meet technology**. I enjoy understanding requirements, analyzing processes, exploring data, and learning how digital solutions can solve real-world problems.
-My journey currently combines:
-- Business analysis and requirements understanding
-- Data analysis and visualization
-- Application and web development
-- Project management fundamentals
-- Artificial intelligence and AI agents
-> **My approach:** Understand the problem → Analyze the need → Build the solution → Keep learning.
-## 🧭 Areas of Interest
-<table>
-  <tr>
-    <td width="50%">
-      <h3>💼 Business & Systems</h3>
-      <p>Business analysis, requirements, processes, systems thinking, and problem-solving.</p>
-    </td>
-    <td width="50%">
-      <h3>📊 Data & Insights</h3>
-      <p>Data visualization, meaningful insights, and supporting better decisions with data.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🌐 Development</h3>
-      <p>Web technologies and practical application development with a focus on strong fundamentals.</p>
-    </td>
-    <td>
-      <h3>🤖 Emerging Technology</h3>
-      <p>Artificial intelligence, AI applications, AI agents, and the future of technology.</p>
-    </td>
-  </tr>
-</table>
-## 🛠️ Skills & Technologies
-### Programming & Development
-<p>
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,dart,flutter" alt="Java, HTML, CSS, JavaScript, Dart, and Flutter" />
-</p>
-### Data, Business & Tools
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Business%20Analysis-2563EB?style=for-the-badge&logo=probot&logoColor=white" alt="Business Analysis" />
-  <img src="https://img.shields.io/badge/Project%20Management-0F766E?style=for-the-badge&logo=target&logoColor=white" alt="Project Management" />
-  <img src="https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
-</p>
-| Focus area | Technologies / interests |
-| --- | --- |
-| Programming | Java |
-| Web development | HTML, CSS, JavaScript |
-| Application development | Dart, Flutter |
-| Data & visualization | Power BI |
-| Analysis | Requirements, business processes, problem-solving |
-| Emerging technology | Artificial intelligence and AI agents |
-## 🌱 Currently Learning
-- Translating business requirements into practical technical solutions
-- Building small applications and web projects
-- Creating meaningful data visualizations with Power BI
-- Strengthening software and systems development fundamentals
-- Exploring practical applications of artificial intelligence and AI agents
-- Documenting my learning journey through projects and experiments
-## 📂 Featured Projects
-> I’m currently building my project portfolio. New projects and experiments will be added here as they become ready to share.
-<!--
-### 📌 Project Name
-A short explanation of the problem, the solution, and what you learned.
-**Built with:** Java · HTML · CSS · JavaScript
-[View repository →](YOUR_REPOSITORY_URL)
--->
-## 🎓 Education
-**Imam Mohammad Ibn Saud Islamic University**  
-**Bachelor’s degree in Information Systems**  
-Expected graduation: **2027**
-My studies are helping me build a foundation across business processes, information technology, systems development, and analytical thinking.
-## 🎯 Career Direction
-I’m working toward becoming a professional who can understand both sides of a problem:
-- **The business side:** needs, processes, requirements, objectives, and stakeholders.
-- **The technology side:** systems, data, software, development, and emerging technologies.
-I’m especially interested in continuing to explore paths such as **Business Analysis, Systems Analysis, Data Analysis, and technology project management**.
-## 📈 My Learning Journey
-```text
-Business Understanding
-          ↓
-Requirements & Systems Analysis
-          ↓
-Technology & Application Development
-          ↓
-Data & Visualization
-          ↓
-AI & Emerging Technologies
-          ↓
-Continuous Learning
+
+<br/>
+
+## 🧠 About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687pQC/giphy.gif" width="230">
+
+```yaml
+whoami:
+  name: "Ibrahim Khaled"
+  title: "Information Systems"
+  mission: "Connecting business strategy with technology to create real value"
+
+what_drives_me:
+  - "A good system starts with a good business question, not with code."
+  - "Technology is only powerful when it solves a real business problem."
+
+exploring_now:
+  - AI Agents & Automation
+  - Business Process Analysis
+  - Data-Driven Decision Making
 ```
 
-<br>
+<br clear="both"/>
+
+## ⚙️ Tech Stack
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=100&section=footer" width="100%" alt="Profile footer" />
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**💻 Development**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,sqlite&theme=dark" />
+
+</td>
+<td align="center" width="50%">
+
+**📊 Business Intelligence**
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /><br/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**📈 Business & Strategy**
+
+<img src="https://img.shields.io/badge/Business_Analysis-1a1a3e?style=for-the-badge&logo=googleanalytics&logoColor=00F7FF" /><br/>
+<img src="https://img.shields.io/badge/Project_Management-1a1a3e?style=for-the-badge&logo=trello&logoColor=00F7FF" />
+
+</td>
+<td align="center" width="50%">
+
+**🤖 Emerging Tech**
+
+<img src="https://img.shields.io/badge/App_Development-1a1a3e?style=for-the-badge&logo=android-studio&logoColor=00F7FF" /><br/>
+<img src="https://img.shields.io/badge/AI_Agents_Building-1a1a3e?style=for-the-badge&logo=openai&logoColor=00F7FF" />
+
+</td>
+</tr>
+</table>
+
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abraheemkq66-lgtm_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+> 🚧 *Reserved for upcoming work — updated as projects are completed.*
+
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tech Used</th>
+</tr>
+<tr>
+<td align="center">🔹 <i>Coming soon</i></td>
+<td align="center"><i>Coming soon</i></td>
+<td align="center"><i>Coming soon</i></td>
+</tr>
+<tr>
+<td align="center">🔹 <i>Coming soon</i></td>
+<td align="center"><i>Coming soon</i></td>
+<td align="center"><i>Coming soon</i></td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ibrahem
+Khallid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=8A2BE2&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGithubUsername&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=FF6EC7&currStreakLabel=00F7FF" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahem-Khallid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" width="47%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ibrahem-Khallid&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="90%"/>
+
+</div>
+
+<br/>
 
 
 
+<br/>
 
 
+### 👀 Profile Views
+<img src="https://komarev.com/ghpvc/?username=Ibrahem-Khallid&label=Visitors&color=00F7FF&style=for-the-badge&labelColor=0a0e27" />
 
+<br/><br/>
 
+*"Where Business Meets Technology, Value is Created."*
 
-
-
-
-
-
-
-
+</div>
