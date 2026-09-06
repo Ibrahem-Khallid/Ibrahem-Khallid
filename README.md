@@ -86,7 +86,6 @@ exploring_now:
 
 <br/>
 
-## 🚀 Featured Projects
 
 
 
