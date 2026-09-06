@@ -88,31 +88,7 @@ exploring_now:
 
 ## 🚀 Featured Projects
 
-<div align="center">
 
-> 🚧 *Reserved for upcoming work — updated as projects are completed.*
-
-<table>
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Tech Used</th>
-</tr>
-<tr>
-<td align="center">🔹 <i>Coming soon</i></td>
-<td align="center"><i>Coming soon</i></td>
-<td align="center"><i>Coming soon</i></td>
-</tr>
-<tr>
-<td align="center">🔹 <i>Coming soon</i></td>
-<td align="center"><i>Coming soon</i></td>
-<td align="center"><i>Coming soon</i></td>
-</tr>
-</table>
-
-</div>
-
-<br/>
 
 ## 📊 GitHub Stats
 
