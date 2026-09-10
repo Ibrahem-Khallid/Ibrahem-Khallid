@@ -86,24 +86,26 @@ exploring_now:
 
 <br/>
 
+</div> <br/> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="35"> How I Think: Business → Tech → Value
+<div align="center"> <img src="https://img.shields.io/badge/1.%20Business%20Need-0f172a?style=for-the-badge&logo=target&logoColor=FF6EC7" /> ➡️ <img src="https://img.shields.io/badge/2.%20Analyze%20%26%20Understand-0f172a?style=for-the-badge&logo=googleanalytics&logoColor=00F7FF" /> ➡️ <img src="https://img.shields.io/badge/3.%20Design%20the%20System-0f172a?style=for-the-badge&logo=blueprint&logoColor=8A2BE2" /> ➡️ <img src="https://img.shields.io/badge/4.%20Build%20with%20Tech%2FAI-0f172a?style=for-the-badge&logo=openai&logoColor=00F7FF" /> ➡️ <img src="https://img.shields.io/badge/5.%20Deliver%20Value-0f172a?style=for-the-badge&logo=rocket&logoColor=FF6EC7" />
 
+<br/><br/>
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ibrahem
-Khallid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=8A2BE2&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGithubUsername&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=FF6EC7&currStreakLabel=00F7FF" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahem-Khallid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" width="47%"/>
+This is how I approach every problem — starting from the business question, not the code.
 
 <br/>
+📚 Currently Learning
+<img src="https://img.shields.io/badge/Advanced%20SQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=00F7FF" /> <img src="https://img.shields.io/badge/Power%20BI%20DAX-1a1a2e?style=flat-square&logo=powerbi&logoColor=F2C811" /> <img src="https://img.shields.io/badge/AI%20Agent%20Frameworks-1a1a2e?style=flat-square&logo=openai&logoColor=8A2BE2" /> <img src="https://img.shields.io/badge/Process%20Automation-1a1a2e?style=flat-square&logo=zapier&logoColor=FF6EC7" /> </div> <br/>
+ </div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ibrahem-Khallid&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="90%"/>
 
-</div>
+<br/> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"> <div align="center">
+
+
+
+
+
 
 <br/>
 
